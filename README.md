@@ -28,8 +28,8 @@ Flujo de Ciencia de Datos de extremo a extremo:
 
 ```bash
 # 1. Clonar el repositorio e ingresar a la carpeta
-git clone <URL_DEL_REPOSITORIO>
-cd <carpeta_del_repositorio>
+git clone https://github.com/macardenascolmena/taller3-bd-apis-mongodb-eda
+cd taller3-bd-apis-mongodb-eda
 
 # 2. Crear el entorno virtual e instalar dependencias
 python -m venv venv
